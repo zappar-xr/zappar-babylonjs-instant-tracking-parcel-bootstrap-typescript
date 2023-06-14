@@ -10,7 +10,7 @@
   "author": "Zappar Limited",
   "license": "MIT",
   "dependencies": {
-    "@zappar/zappar-babylonjs": "2.0.0",
+    "@zappar/zappar-babylonjs": "2.1.2",
     "babylonjs": "4.2.0"
   },
   "devDependencies": {
